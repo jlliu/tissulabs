@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>symptoms4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="190" cy="190" r="190"></circle>
+    </defs>
+    <g id="symptoms4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2-+-Group-3-Mask" transform="translate(10.000000, 10.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#DF5A44" xlink:href="#path-1"></use>
+            <g id="Group-2" mask="url(#mask-2)">
+                <g transform="translate(0.000000, 28.000000)">
+                    <circle id="Oval-3" stroke="none" fill="#FFFFFF" fill-rule="evenodd" cx="323" cy="225" r="14"></circle>
+                    <circle id="Oval-3" stroke="none" fill="#FFFFFF" fill-rule="evenodd" cx="328" cy="120" r="14"></circle>
+                    <circle id="Oval-3" stroke="none" fill="#FFFFFF" fill-rule="evenodd" cx="351" cy="52" r="14"></circle>
+                    <circle id="Oval-3" stroke="none" fill="#FFFFFF" fill-rule="evenodd" cx="96" cy="14" r="14"></circle>
+                    <circle id="Oval-3" stroke="none" fill="#FFFFFF" fill-rule="evenodd" cx="14" cy="219" r="14"></circle>
+                    <circle id="Oval-3" stroke="none" fill="#FFFFFF" fill-rule="evenodd" cx="14" cy="219" r="14"></circle>
+                    <g id="Group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(14.000000, 72.000000)">
+                        <circle id="Oval-2" fill="#FF8E75" cx="126" cy="139" r="80"></circle>
+                        <circle id="Oval-2" fill="#FF8E75" cx="54.5" cy="29.5" r="29.5"></circle>
+                        <circle id="Oval-2" fill="#FF8E75" cx="21" cy="93" r="21"></circle>
+                        <circle id="Oval" fill="#FFFFFF" cx="97" cy="142" r="10"></circle>
+                        <circle id="Oval-2" fill="#FF8E75" cx="75" cy="240" r="26"></circle>
+                        <circle id="Oval-2" fill="#FF8E75" cx="173.5" cy="242.5" r="23.5"></circle>
+                        <circle id="Oval-2" fill="#FF8E75" cx="245.5" cy="134.5" r="23.5"></circle>
+                        <circle id="Oval-2" fill="#FF8E75" cx="184.5" cy="33.5" r="19.5"></circle>
+                        <path d="M54,32.5 L124,135" id="Path-16" stroke="#FF8E75" stroke-width="22"></path>
+                        <path d="M150,91.5 L179,41.6709583" id="Path-34" stroke="#FF8E75" stroke-width="22"></path>
+                        <path d="M174,133 L232.5,133" id="Path-35" stroke="#FF8E75" stroke-width="22"></path>
+                        <path d="M20.5,92.5 L73,126" id="Path-36" stroke="#FF8E75" stroke-width="18"></path>
+                        <path d="M101,190.5 L77.5,237.5" id="Path-37" stroke="#FF8E75" stroke-width="22"></path>
+                        <path d="M150,188.5 L167,231.5" id="Path-38" stroke="#FF8E75" stroke-width="22"></path>
+                        <circle id="Oval" fill="#FFFFFF" cx="137.5" cy="105.5" r="23.5"></circle>
+                        <circle id="Oval" fill="#FFFFFF" cx="142" cy="167" r="15"></circle>
+                    </g>
+                    <path d="M265,106 L314,170" id="Path-39" stroke="#FFAFA2" stroke-width="21" fill="none" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M219,37 L264.5,20.5" id="Path-39" stroke="#FFAFA2" stroke-width="21" fill="none" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M246,312 L313.5,330.5" id="Path-39" stroke="#FFAFA2" stroke-width="21" fill="none" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M96,53 L163.5,71.5" id="Path-39" stroke="#FFAFA2" stroke-width="21" fill="none" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

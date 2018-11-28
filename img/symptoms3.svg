@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>symptoms3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="190" cy="190" r="190"></circle>
+    </defs>
+    <g id="symptoms3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2-+-Group-3-Mask" transform="translate(10.000000, 10.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#FFDBD5" xlink:href="#path-1"></use>
+            <polygon id="Path-28" fill="#FFFFFF" mask="url(#mask-2)" points="183.293617 136.114894 210.714894 31 247.276596 136.114894 350.868085 83.5574468 309.73617 163.53617 392 241.229787 287.646809 241.229787 302 287 235.5 257 154.348936 341 154.348936 210.761702 34 241.229787 123.880851 163.53617 65.9914894 83.5574468"></polygon>
+            <g id="Group" mask="url(#mask-2)">
+                <g transform="translate(173.121778, 206.874954) rotate(-30.000000) translate(-173.121778, -206.874954) translate(103.121778, 11.874954)">
+                    <rect id="Rectangle" stroke="#FF8E75" stroke-width="21" fill="none" x="22" y="0" width="47" height="156" rx="23.5"></rect>
+                    <path d="M42.5,126 L42.5,126 C67.8356975,126 90.2835205,142.330881 98.0823621,166.436392 L107,194 L107,213.5 L97.995829,241.535714 C90.2519095,265.647464 67.8247853,282 42.5,282 L42.5,282 C19.0278981,282 -1.72737015e-11,262.972102 -1.74225079e-11,239.5 L-1.73869807e-11,168.5 C-1.73898552e-11,145.027898 19.0278981,126 42.5,126 Z" id="Rectangle" stroke="#FF8E75" stroke-width="21" fill="none"></path>
+                    <rect id="Rectangle" stroke="#FF8E75" stroke-width="21" fill="none" x="30" y="252" width="47" height="138" rx="23.5"></rect>
+                    <polygon id="Path-2" stroke="none" fill="#FFFFFF" fill-rule="evenodd" points="88.8470588 190.380952 139.5 180 135.011765 234.5 85 218.928571 85 190.380952"></polygon>
+                    <path d="M62.0041189,295.605716 C69.7767231,291.825642 74.9358035,289.223185 77.4813602,287.798347 C80.0269169,286.373509 84.3809762,283.498724 90.543538,279.173992" id="Path-3" stroke="#FFDBD5" stroke-width="10" fill="none"></path>
+                </g>
+            </g>
+            <path d="M149,134 C153.775684,142.306375 156.942351,148.973041 158.5,154 C160.057649,159.026959 160.724316,166.026959 160.5,175" id="Path-4" stroke="#FFFFFF" stroke-width="12" mask="url(#mask-2)"></path>
+        </g>
+        <path d="M92,188.26425 C103.376899,169.021917 96.5310794,178.206213 112.919116,161" id="Path-29" stroke="#FFDBD5" stroke-width="9"></path>
+        <path d="M134.5,182 C128.909291,185.195478 125.242624,187.528812 123.5,189 C121.607195,190.597977 120.437818,193.832486 120,195 C118.957562,197.779835 118.290895,202.613168 118,209.5" id="Path-30" stroke="#FFFFFF" stroke-width="8"></path>
+        <path d="M172,296 C173.750333,301.664269 175.417,306.414269 177,310.25 C178.583,314.085731 180.916333,319.502397 184,326.5" id="Path-31" stroke="#FFFFFF" stroke-width="7"></path>
+        <path d="M217.5,259 C216.408266,265.495391 215.2416,270.162058 214,273 C212.7584,275.837942 209.425067,280.671275 204,287.5" id="Path-32" stroke="#FFFFFF" stroke-width="8"></path>
+        <polygon id="Path-33" fill="#DF5A44" points="223 161.5 240.5 104 259 115"></polygon>
+        <polygon id="Path-33" fill="#DF5A44" transform="translate(281.963457, 174.898230) rotate(30.000000) translate(-281.963457, -174.898230) " points="263.963457 203.64823 281.463457 146.14823 299.963457 157.14823"></polygon>
+        <polygon id="Path-33" fill="#DF5A44" transform="translate(283.438890, 236.718925) rotate(80.000000) translate(-283.438890, -236.718925) " points="265.43889 265.468925 282.93889 207.968925 301.43889 218.968925"></polygon>
+    </g>
+</svg>

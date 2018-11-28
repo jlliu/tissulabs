@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="373px" height="254px" viewBox="0 0 373 254" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>skin3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="skin3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(140.000000, 124.000000)">
+            <path d="M46,23.1994769 C57.3059501,7.68091706 66.7842337,4.88249303 74.4348506,14.8042048 C82.0866133,24.7274025 72.6196442,39.4427357 46.0339434,58.9502044 L46.0339434,59 C46.0226258,58.9917013 46.0113114,58.9834034 46,58.9751064 C45.9886886,58.9834034 45.9773742,58.9917013 45.9660566,59 L45.9660566,58.9502136 C19.3803558,39.4427357 9.91338669,24.7274025 17.5651494,14.8042048 C25.2157663,4.88249303 34.6940499,7.68091706 46,23.1994769 Z" id="Combined-Shape" stroke="#DE8B7E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M19,3 C14.4310915,4.50288242 11.2644248,6.3885967 9.5,8.65714286 C7.73557521,10.925689 6.23557521,15.0399747 5,21" id="Path-11" stroke="#EAB5AC" stroke-width="2"></path>
+            <path d="M72,4 C80.5722078,4.23732878 84.7856319,13.6254779 83.8790797,22" id="Path-12" stroke="#EAB5AC" stroke-width="2"></path>
+            <path d="M81,1 C88.5487919,3.19029039 87.9690287,7.65840352 89,15" id="Path-13" stroke="#EAB5AC" stroke-width="2"></path>
+            <path d="M9,0 C3.43212315,2.95156617 0.91126675,4.65953132 0,11" id="Path-14" stroke="#EAB5AC" stroke-width="2"></path>
+        </g>
+    </g>
+</svg>

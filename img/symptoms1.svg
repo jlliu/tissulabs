@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>symptoms1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="190" cy="190" r="190"></circle>
+    </defs>
+    <g id="symptoms1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2-+-Group-3-Mask" transform="translate(10.000000, 10.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#FFDBD5" xlink:href="#path-1"></use>
+            <g id="Group-2" mask="url(#mask-2)">
+                <g transform="translate(125.426218, 190.375925) rotate(-20.000000) translate(-125.426218, -190.375925) translate(59.926218, -25.624075)">
+                    <rect id="Rectangle" fill="#FFAFA2" x="12.1846063" y="0" width="118.522989" height="431.999679"></rect>
+                    <g id="Group" stroke-width="1" fill="none" transform="translate(0.000000, 0.000000)">
+                        <path d="M12.7384521,52.6153455 L69.2307178,52.6153455" id="Line" stroke="#DF5A44" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M12.5222402,85.1541367 L30.7544664,85.1541367" id="Line" stroke="#DF5A44" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M12.5222402,18.5926602 L30.7544664,18.5926602" id="Line" stroke="#DF5A44" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M12.5222402,154.200151 L30.7544664,154.200151" id="Line" stroke="#DF5A44" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M12.5222402,221.018874 L30.7544664,221.018874" id="Line" stroke="#DF5A44" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M12.5222402,289.953524 L30.7544664,289.953524" id="Line" stroke="#DF5A44" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M12.5222402,361.226829 L30.7544664,361.226829" id="Line" stroke="#DF5A44" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M12.7384521,119.907603 L69.2307178,119.907603" id="Line" stroke="#DF5A44" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M12.7384521,188.584475 L69.2307178,188.584475" id="Line" stroke="#DF5A44" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M12.7384521,394.615092 L69.2307178,394.615092" id="Line" stroke="#DF5A44" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M12.7384521,257.261347 L69.2307178,257.261347" id="Line" stroke="#DF5A44" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M12.7384521,325.93822 L69.2307178,325.93822" id="Line" stroke="#DF5A44" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <rect id="Rectangle-2" fill="#FF8E75" x="0" y="0" width="12.1846063" height="431.999679"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Group-3" mask="url(#mask-2)" stroke="#DF5A44" stroke-linecap="round" stroke-width="31">
+                <g transform="translate(308.687063, 237.386979) rotate(-20.000000) translate(-308.687063, -237.386979) translate(250.187063, 135.886979)" id="Line-2">
+                    <polyline stroke-linejoin="round" points="0 57 58.5 0 117 57"></polyline>
+                    <path d="M58.2083333,28.0829167 L58.2083333,202.398525"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

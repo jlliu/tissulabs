@@ -2,6 +2,9 @@
   font-family: 'ABeeZee';
   src: url("font/ABeeZee-Regular.otf");
   /* IE9 Compat Modes */ }
+html {
+  overflow-x: hidden; }
+
 p a {
   color: #ffa192 !important; }
 
@@ -54,7 +57,10 @@ p {
 
 .navbar {
   height: 86px;
-  transition: .3s background-color; }
+  transition: .3s all; }
+
+.navbar.compressed {
+  height: 50px; }
 
 #navbar a {
   float: left;
@@ -303,8 +309,24 @@ form styling*/
   margin: 100px auto;
   text-align: center; }
 
+.benefits img {
+  max-width: 240px; }
+
 .users img {
   max-width: 240px; }
+
+w-div form {
+  padding-top: 5px !important;
+  padding-bottom: 5px !important; }
+w-div a {
+  visibility: hidden; }
+w-div span {
+  top: 5px !important; }
+w-div button {
+  padding: 10px 30px !important; }
+w-div input {
+  padding: 10px 20px !important;
+  height: 52px !important; }
 
 .bg-contact {
   min-height: 600px; }
@@ -315,5 +337,32 @@ form styling*/
     right: 20px;
     top: 0px;
     z-index: -3; }
+
+/*mobile styles*/
+@media only screen and (max-width: 800px) {
+  w-div span {
+    top: 5px !important; }
+  w-div button {
+    padding: 0px !important; }
+  w-div input {
+    padding: 10px 20px !important;
+    height: 52px !important; }
+
+  .petri {
+    width: 100%;
+    position: relative;
+    bottom: 0px;
+    right: 0px;
+    padding-bottom: 40px; }
+
+  .bg-contact {
+    min-height: 0; }
+    .bg-contact img {
+      position: relative;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      height: auto;
+      right: 0px;
+      width: 100%; } }
 
 /*# sourceMappingURL=style.css.map */
